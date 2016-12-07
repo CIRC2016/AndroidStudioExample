@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
+            <item name="android:windowShowWallpaper">true</item>
+            <item name="android:windowBackground">@drawable/xdwlight</item>
+            <item name="android:colorAccent">#ff40c4ff</item>
+            <!-- action bar color -->
+            <item name="android:colorPrimary">#ffdb4f56</item>
+            <!-- status bar color -->
+            <item name="android:colorPrimaryDark">#ffd32f2f</item>
+        </style>
+
+</resources>

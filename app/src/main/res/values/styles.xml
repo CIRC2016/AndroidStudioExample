@@ -1,6 +1,8 @@
 <resources>
 
     <style name="AppTheme" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowBackground">@drawable/xdwlight</item>
     </style>
 
 </resources>
